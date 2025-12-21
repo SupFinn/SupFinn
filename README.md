@@ -1,18 +1,17 @@
 # 👋 Hi, I’m Finn (Redouane Hssayn)
 
-🎓 **Computer Science Student (1337 / 42 Network)**  
-💻 Software Engineering • Algorithms • Systems • AI  
+🎓 **42 Network Student**  
+💻 Software Engineering • Algorithms • System Programming • AI  
 🚀 Curious about how systems, data, and intelligence work under the hood
 
 ---
 
 ## 🧠 About Me
 
-I’m **Redouane Hssayn**, also known as **Finn**.  
-I’m passionate about **problem-solving**, **efficient code**, and building a deep understanding of how things work — from low-level memory to high-level reasoning.
+I’m **Redouane Hssayn**, a 42/1337 student driven by a strong interest in **problem-solving**, **efficient code**, and **deep technical understanding**.  
+I’m building solid foundations in **computer science**, ranging from low-level programming to **data structures, algorithms, and artificial intelligence**.
 
-I’m developing strong foundations in **computer science**, covering areas such as **system programming**, **data structures**, **algorithms**, and **artificial intelligence**.  
-I enjoy learning by doing, working under constraints, and continuously improving how I think, design, and optimize solutions.
+I enjoy learning by doing, working under constraints, and constantly refining my way of thinking — whether it’s optimizing an algorithm, understanding memory behavior, or exploring how intelligent systems make decisions.
 
 ---
 
@@ -23,18 +22,19 @@ I enjoy learning by doing, working under constraints, and continuously improving
   <img src="https://skillicons.dev/icons?i=c,python,bash,html,css,javascript" />
 </p>
 
-### 🧠 Computer Science Concepts  
+### 🧠 Computer Science Concepts
 <img align="right" width="140" src="https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif" />
-
-- Data Structures & Algorithms  
-- Memory Management & Pointers  
-- Algorithmic Optimization  
-- Problem Solving & Time Complexity  
-- Basics of Artificial Intelligence & Reasoning  
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,git" />
 </p>
+
+| Concept | Description |
+|---------|-------------|
+| Data Structures & Algorithms | Core concepts for problem-solving |
+| Memory Management & Pointers | Understanding low-level behavior |
+| Algorithmic Optimization | Efficient and fast solutions |
+| Problem Solving & Complexity | Breaking down challenges |
+| Basics of AI & Reasoning | Intro to intelligent systems |
 
 ---
 
@@ -44,7 +44,7 @@ I enjoy learning by doing, working under constraints, and continuously improving
 - 🧮 Algorithms and data structures  
 - 🤖 Artificial intelligence fundamentals  
 - 🛡️ Linux systems & security  
-- 🧠 Learning how to learn  
+- 🧠 Learning how to learn
 
 ---
 
@@ -52,10 +52,9 @@ I enjoy learning by doing, working under constraints, and continuously improving
 
 - Writing clean, efficient, and maintainable code  
 - Strengthening algorithmic thinking  
-- Understanding how intelligent systems reason and optimize decisions  
-- Improving technical communication and explanation skills  
+- Exploring AI concepts introduced in the new Common Core  
+- Becoming more precise in technical explanations
 
----
 
 ## 📫 Contact
 
