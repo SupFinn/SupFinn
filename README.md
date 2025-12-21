@@ -55,15 +55,12 @@ I enjoy learning by doing, working under constraints, and constantly refining my
 - Exploring AI concepts introduced in the new Common Core  
 - Becoming more precise in technical explanations
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SupFinn&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupFinn&layout=compact&theme=radical" />
-</p>
-<p align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SupFinn&theme=radical)
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SupFinn&theme=radical&hide_border=false" />
 </p>
 
 ## 📫 Contact
