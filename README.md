@@ -62,6 +62,9 @@ I enjoy learning by doing, working under constraints, and constantly refining my
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SupFinn&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupFinn&layout=compact&theme=radical" />
 </p>
+<p align="center">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SupFinn&theme=radical)
+</p>
 
 ## 📫 Contact
 
