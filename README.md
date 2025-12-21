@@ -56,13 +56,13 @@ I enjoy learning by doing, working under constraints, and constantly refining my
 - Becoming more precise in technical explanations
 
 
-## 📫 Contact
-
-- **LinkedIn:** @Redouane Hssayn  
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SupFinn&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupFinn&layout=compact&theme=radical" />
 </p>
+
+## 📫 Contact
+
+- **LinkedIn:** @Redouane Hssayn  
