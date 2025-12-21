@@ -63,14 +63,6 @@ I enjoy learning by doing, working under constraints, and constantly refining my
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupFinn&layout=compact&theme=radical" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SupFinn/SupFinn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SupFinn/SupFinn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SupFinn/SupFinn/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 ## 📫 Contact
 
 - **LinkedIn:** @Redouane Hssayn  
