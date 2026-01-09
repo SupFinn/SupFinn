@@ -66,5 +66,5 @@ I enjoy learning by doing, working under constraints, and constantly refining my
 </p>
 
 ## 📫 Contact
-
+<img align="right" width="140" src="https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif" />
 - **LinkedIn:** @Redouane Hssayn  
