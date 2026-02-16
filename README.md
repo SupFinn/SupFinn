@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Finn (Redouane Hssayn)
+# 👋 Hi, I’m Finn...
 
 🎓 **42 Network Student**  
 💻 Software Engineering • Algorithms • System Programming • AI  
