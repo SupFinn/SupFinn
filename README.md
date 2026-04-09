@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/1337_Network-000000?style=for-the-badge&logo=42&logoColor=00FF00" alt="1337 Badge"/>
 </a>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=FinnXFine+1337 (42 Network)+Software+Engineering;Algorithms+%26+Data+Structures;Low-Level+OS+Basics;Artificial+Intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=FinnXFine+%7C+1337+%2842+Network%29+%7C+Software+Engineering;Algorithms+%26+Data+Structures;Low-Level+OS+Basics;Artificial+Intelligence" alt="Typing SVG" />
 
 </div>
 
