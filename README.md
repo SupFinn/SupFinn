@@ -1,70 +1,113 @@
-# 👋 Hi, I’m Finn...
+<div align="center">
 
-🎓 **42 Network Student**  
-💻 Software Engineering • Algorithms • System Programming • AI  
-🚀 Curious about how systems, data, and intelligence work under the hood
+# 👋 Hi, I’m Redouane (aka Finn)
 
----
+<a href="https://1337.ma/">
+  <img src="https://img.shields.io/badge/1337_Network-000000?style=for-the-badge&logo=42&logoColor=00FF00" alt="1337 Badge"/>
+</a>
+<a href="https://github.com/SupFinn">
+  <img src="https://img.shields.io/badge/OS_Concepts_&_C-212121?style=for-the-badge&logo=linux&logoColor=00FF00" alt="Unix Basics"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Software+Engineering;Algorithms+%26+Data+Structures;Low-Level+OS+Basics;Artificial+Intelligence" alt="Typing SVG" />
+
+</div>
+
+<br>
+
+```bash
+finn@1337:~$ ./build_developer
+[+] Loading C foundations...       [ OK ]
+[+] Compiling algorithms...        [ OK ]
+[+] Exploring OS fundamentals...   [ IN PROGRESS ]
+[+] Initializing AI modules...     [ LOADING... ]
+finn@1337:~$ echo "Let's write some code!"
+```
+
+<br>
 
 ## 🧠 About Me
 
-I’m **Redouane Hssayn**, a 42/1337 student driven by a strong interest in **problem-solving**, **efficient code**, and **deep technical understanding**.  
-I’m building solid foundations in **computer science**, ranging from low-level programming to **data structures, algorithms, and artificial intelligence**.
+<img align="right" width="220" src="https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif" alt="Retro Computer GIF" />
 
-I enjoy learning by doing, working under constraints, and constantly refining my way of thinking — whether it’s optimizing an algorithm, understanding memory behavior, or exploring how intelligent systems make decisions.
+I’m **Redouane Hssayn**, a **42/1337** student driven by a strong interest in **problem-solving**, **efficient code**, and **understanding how things work under the hood**.  
 
----
+I’m currently building solid foundations in computer science. Rather than high-level abstractions, I spend my time exploring low-level programming in C, learning the basics of system operations (like processes and threads), and diving into **data structures, algorithms, and artificial intelligence**. 
 
-## 🛠️ Core Skills
+I enjoy learning by doing, working under strict constraints (like the 42 Norm!), and constantly refining my way of thinking. 
 
-### 💻 Programming Languages
+<br>
+
+## 🛠️ Core Stack & Skills
+
+### 💻 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,bash,html,css,javascript" />
-</p>
-
-### 🧠 Computer Science Concepts
-<img align="right" width="140" src="https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif" />
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git" />
-</p>
-
-| Concept | Description |
-|---------|-------------|
-| Data Structures & Algorithms | Core concepts for problem-solving |
-| Memory Management & Pointers | Understanding low-level behavior |
-| Algorithmic Optimization | Efficient and fast solutions |
-| Problem Solving & Complexity | Breaking down challenges |
-| Basics of AI & Reasoning | Intro to intelligent systems |
-
----
-
-## 🧩 Areas of Interest
-
-- ⚙️ Low-level & system programming  
-- 🧮 Algorithms and data structures  
-- 🤖 Artificial intelligence fundamentals  
-- 🛡️ Linux systems & security  
-- 🧠 Learning how to learn
-
----
-
-## 📈 Currently Focusing On
-
-- Writing clean, efficient, and maintainable code  
-- Strengthening algorithmic thinking  
-- Exploring AI concepts introduced in the new Common Core  
-- Becoming more precise in technical explanations
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SupFinn&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupFinn&layout=compact&theme=radical" />
-  <a href="https://github.com/SupFinn/github-readme-stats-fast">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=SupFinn&theme=radical" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,html,css,javascript&perline=8" alt="My Skills" />
   </a>
 </p>
 
-## 📫 Contact
+### 🔬 What I'm Learning & Practicing
 
-- **LinkedIn:** @Redouane Hssayn  
+| 🧬 Concept | 🎯 Focus / Description |
+| :--- | :--- |
+| **Data Structures & Algorithms** | Core foundations for problem-solving, logic, and complexity |
+| **Memory Management** | Pointers, malloc, preventing leaks, and low-level behavior |
+| **Algorithmic Optimization** | Writing clean, scalable, and computationally fast solutions |
+| **Low-Level Systems (Basics)** | Introduction to POSIX threads, processes, and OS fundamentals |
+| **Basics of AI & Reasoning** | Introduction to intelligent systems, data, and machine learning |
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&fontColor=0D1117&height=120&section=header&text=Areas%20of%20Interest&fontSize=30&fontAlignY=40" width="100%"/>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>⚙️ Under the Hood</h3>
+      <p>Exploring the basics of how Linux systems, memory, and concurrency actually work.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🧮 Algorithms</h3>
+      <p>Mastering complex data structures and algorithmic efficiency to solve hard puzzles.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🤖 AI</h3>
+      <p>Discovering Artificial Intelligence concepts introduced in the new Common Core.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SupFinn&show_icons=true&title_color=00FF00&text_color=A9B2C3&icon_color=00FF00&bg_color=0D1117&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupFinn&layout=compact&title_color=00FF00&text_color=A9B2C3&bg_color=0D1117&hide_border=true" />
+  <br><br>
+  <a href="https://github.com/SupFinn/github-readme-stats-fast">
+    <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=SupFinn&title_color=00FF00&text_color=A9B2C3&icon_color=00FF00&bg_color=0D1117&hide_border=true" />
+  </a>
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/redouane-hssayn-a9b6b3384/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SupFinn">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF00" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Writing clean, efficient, and maintainable code—one segfault at a time."</i>
+</p>
