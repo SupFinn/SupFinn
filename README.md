@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Redouane Hssayn (Finn)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=00FFAA&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%9A%80+Welcome+to+my+GitHub+Profile;%F0%9F%92%BB+Redouane+%28Finn%29+%7C+1337+Student;%F0%9F%A7%A0+Algorithms+%26+Problem+Solving;%F0%9F%A4%96+AI+%26+Software+Engineering;Algorithms+%26+Data+Structures;Low-Level+OS;Artificial+Intelligence" alt="Typing animation" />
-
+<br>
 <a href="https://1337.ma/">
   <img src="https://img.shields.io/badge/1337_Network-000000?style=for-the-badge&logo=42&logoColor=00FF00" alt="1337 Badge"/>
 </a>
