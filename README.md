@@ -79,16 +79,6 @@ I enjoy learning by doing, working under constraints, and constantly refining my
 
 ---
 
-## 🎯 Currently Focusing On
-
-- Building strong computer science fundamentals  
-- Improving problem-solving and algorithmic thinking  
-- Writing clean, readable, and maintainable code  
-- Strengthening collaboration and communication skills  
-- Continuously learning through projects and practice
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
