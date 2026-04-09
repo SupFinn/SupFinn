@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I’m Redouane Hssayn (Finn)
+# 👋 Hi, I’m Finn (Redouane Hssayn)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=00FFAA&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%9A%80+Welcome+to+my+GitHub+Profile;%F0%9F%92%BB+Redouane+%28Finn%29+%7C+1337+Student;%F0%9F%A7%A0+Algorithms+%26+Problem+Solving;%F0%9F%A4%96+AI+%26+Software+Engineering;Algorithms+%26+Data+Structures;Low-Level+OS;Artificial+Intelligence" alt="Typing animation" />
 <br>
@@ -27,7 +27,7 @@ finn@1337:~$ echo "Let's write some code!"
 
 <img align="right" width="220" src="https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif" alt="Retro Computer GIF" />
 
-I’m **Redouane Hssayn**, a **42/1337** student driven by a strong interest in **problem-solving**, **efficient code**, and **understanding how things work under the hood**.  
+I’m **Redouane Hssayn** (Finn), a **42/1337** student driven by a strong interest in **problem-solving**, **efficient code**, and **understanding how things work under the hood**.  
 
 I’m currently building solid foundations in computer science. Rather than high-level abstractions, I spend my time exploring low-level programming in C, learning the basics of system operations (like processes and threads), and diving into **data structures, algorithms, and artificial intelligence**. 
 
