@@ -5,13 +5,8 @@
 <a href="https://1337.ma/">
   <img src="https://img.shields.io/badge/1337_Network-000000?style=for-the-badge&logo=42&logoColor=00FF00" alt="1337 Badge"/>
 </a>
-<a href="https://github.com/SupFinn">
-  <img src="https://img.shields.io/badge/OS_Concepts_&_C-212121?style=for-the-badge&logo=linux&logoColor=00FF00" alt="Unix Basics"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Software+Engineering;Algorithms+%26+Data+Structures;Low-Level+OS+Basics;Artificial+Intelligence" alt="Typing SVG" />
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=FinnXFine+1337 (42 Network)+Software+Engineering;Algorithms+%26+Data+Structures;Low-Level+OS+Basics;Artificial+Intelligence" alt="Typing SVG" />
 
 </div>
 
@@ -62,22 +57,22 @@ I enjoy learning by doing, working under strict constraints (like the 42 Norm!),
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&fontColor=0D1117&height=120&section=header&text=Areas%20of%20Interest&fontSize=30&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&text=Areas%20of%20Interest&fontSize=30&fontAlignY=40" width="100%"/>
 </div>
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <h3>⚙️ Under the Hood</h3>
-      <p>Exploring the basics of how Linux systems, memory, and concurrency actually work.</p>
+      <h3>⚙️ Systems</h3>
+      <p>Low-level & system programming, Linux systems & security.</p>
     </td>
     <td align="center" width="33%">
       <h3>🧮 Algorithms</h3>
-      <p>Mastering complex data structures and algorithmic efficiency to solve hard puzzles.</p>
+      <p>Mastering complex data structures and algorithmic efficiency.</p>
     </td>
     <td align="center" width="33%">
       <h3>🤖 AI</h3>
-      <p>Discovering Artificial Intelligence concepts introduced in the new Common Core.</p>
+      <p>I’m deeply interested in exploring artificial intelligence, from its core concepts to real-world applications, and understanding how intelligent systems Work.</p>
     </td>
   </tr>
 </table>
