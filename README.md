@@ -72,7 +72,7 @@ I enjoy learning by doing, working under constraints, and constantly refining my
     </td>
     <td align="center" width="33%">
       <h3>🤖 AI</h3>
-      <p>I’m deeply interested in exploring artificial intelligence, from its core concepts to real-world applications, and understanding how intelligent systems Work.</p>
+      <p>I’m deeply interested in exploring artificial intelligence, from its core concepts to real-world applications.</p>
     </td>
   </tr>
 </table>
