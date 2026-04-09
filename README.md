@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I’m Redouane (aka Finn)
+# 👋 Hi, I’m Redouane (Finn)
 
 <a href="https://1337.ma/">
   <img src="https://img.shields.io/badge/1337_Network-000000?style=for-the-badge&logo=42&logoColor=00FF00" alt="1337 Badge"/>
@@ -31,7 +31,7 @@ I’m **Redouane Hssayn**, a **42/1337** student driven by a strong interest in 
 
 I’m currently building solid foundations in computer science. Rather than high-level abstractions, I spend my time exploring low-level programming in C, learning the basics of system operations (like processes and threads), and diving into **data structures, algorithms, and artificial intelligence**. 
 
-I enjoy learning by doing, working under strict constraints (like the 42 Norm!), and constantly refining my way of thinking. 
+I enjoy learning by doing, working under constraints, and constantly refining my way of thinking whether it’s optimizing an algorithm, understanding memory behavior, or exploring how intelligent systems make decisions. 
 
 <br>
 
@@ -52,7 +52,7 @@ I enjoy learning by doing, working under strict constraints (like the 42 Norm!),
 | **Memory Management** | Pointers, malloc, preventing leaks, and low-level behavior |
 | **Algorithmic Optimization** | Writing clean, scalable, and computationally fast solutions |
 | **Low-Level Systems (Basics)** | Introduction to POSIX threads, processes, and OS fundamentals |
-| **Basics of AI & Reasoning** | Introduction to intelligent systems, data, and machine learning |
+| **AI & Reasoning** | Introduction to intelligent systems, data, and machine learning |
 
 ---
 
@@ -79,12 +79,19 @@ I enjoy learning by doing, working under strict constraints (like the 42 Norm!),
 
 ---
 
+## 🎯 Currently Focusing On
+
+- Building strong computer science fundamentals  
+- Improving problem-solving and algorithmic thinking  
+- Writing clean, readable, and maintainable code  
+- Strengthening collaboration and communication skills  
+- Continuously learning through projects and practice
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SupFinn&show_icons=true&title_color=00FF00&text_color=A9B2C3&icon_color=00FF00&bg_color=0D1117&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupFinn&layout=compact&title_color=00FF00&text_color=A9B2C3&bg_color=0D1117&hide_border=true" />
-  <br><br>
   <a href="https://github.com/SupFinn/github-readme-stats-fast">
     <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=SupFinn&title_color=00FF00&text_color=A9B2C3&icon_color=00FF00&bg_color=0D1117&hide_border=true" />
   </a>
@@ -103,6 +110,3 @@ I enjoy learning by doing, working under strict constraints (like the 42 Norm!),
   </a>
 </p>
 
-<p align="center">
-  <i>"Writing clean, efficient, and maintainable code—one segfault at a time."</i>
-</p>
