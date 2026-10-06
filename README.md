@@ -111,12 +111,12 @@ I enjoy learning by doing, working under constraints, and constantly refining my
 
 <div align="center">
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=SupFinn&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1b2a&title_color=4CC9F0&icon_color=7209B7&text_color=a9d6e5" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=SupFinn&theme=midnight-purple&hide_border=true&background=0D1B2A&ring=4CC9F0&fire=FFB703&currStreakLabel=4CC9F0&sideLabels=a9d6e5&dates=a9d6e5" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=SupFinn&show_icons=true&title_color=00FF00&text_color=A9B2C3&icon_color=00FF00&bg_color=0D1117&hide_border=true" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/streak?username=SupFinn&title_color=00FF00&text_color=A9B2C3&icon_color=00FF00&bg_color=0D1117&hide_border=true" />
 
 <br/>
 
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SupFinn&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1b2a&title_color=4CC9F0&text_color=a9d6e5" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SupFinn&layout=compact&title_color=00FF00&text_color=A9B2C3&bg_color=0D1117&hide_border=true" />
 
 </div>
 
