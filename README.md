@@ -15,7 +15,7 @@
 </a>
 <br><br>
 
-[![rhssayn's 42 stats](https://badge.mediaplus.ma/darkblue/rhssayn)](https://github.com/oakoudad/badge42)
+[![rhssayn's 42 stats](https://badge.mediaplus.ma/greenbinary/rhssayn)](https://github.com/oakoudad/badge42)
 
 </div>
 
@@ -116,7 +116,7 @@ I enjoy learning by doing, working under constraints, and constantly refining my
 
 <br/>
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SupFinn&layout=compact&title_color=00FF00&text_color=A9B2C3&bg_color=0D1117&hide_border=true" />
+<img height="175" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SupFinn&layout=compact&title_color=00FF00&text_color=A9B2C3&bg_color=0D1117&hide_border=true" />
 
 </div>
 
