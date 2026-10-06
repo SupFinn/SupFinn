@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Finn (Redouane Hssayn)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=00FFAA&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%9A%80+Welcome+to+my+GitHub+Profile;%F0%9F%92%BB+Redouane+%28Finn%29+%7C+1337+Student;%F0%9F%A7%A0+Algorithms+%26+Problem+Solving;%F0%9F%A4%96+AI+%26+Software+Engineering;Algorithms+%26+Data+Structures;Low-Level+OS;Artificial+Intelligence" alt="Typing animation" />
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Learning%20%26%20Building-00FFAA?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/%F0%9F%92%AD%20Focus-Algorithms%20%7C%20Systems%20%7C%20AI-7209B7?style=for-the-badge&labelColor=0D1117" />
@@ -13,7 +13,7 @@
 <a href="https://1337.ma/">
   <img src="https://img.shields.io/badge/1337_Network-000000?style=for-the-badge&logo=42&logoColor=00FF00" alt="1337 Badge"/>
 </a>
-<br><br>
+<br><br><br>
 
 [![rhssayn's 42 stats](https://badge.mediaplus.ma/greenbinary/rhssayn)](https://github.com/oakoudad/badge42)
 
