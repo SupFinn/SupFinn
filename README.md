@@ -10,12 +10,12 @@
 <img src="https://img.shields.io/badge/%F0%9F%93%8D%20From-Morocco-E63946?style=for-the-badge&labelColor=0D1117" />
 <br>
 
-<a href="https://1337.ma/">
+<!-- <a href="https://1337.ma/">
   <img src="https://img.shields.io/badge/1337_Network-000000?style=for-the-badge&logo=42&logoColor=00FF00" alt="1337 Badge"/>
 </a>
 <br><br><br>
 
-[![rhssayn's 42 stats](https://badge.mediaplus.ma/greenbinary/rhssayn)](https://github.com/oakoudad/badge42)
+[![rhssayn's 42 stats](https://badge.mediaplus.ma/greenbinary/rhssayn)](https://github.com/oakoudad/badge42) -->
 
 </div>
 
